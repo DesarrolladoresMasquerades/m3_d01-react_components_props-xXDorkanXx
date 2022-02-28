@@ -1,0 +1,12 @@
+.NavButton{
+    border-radius: 30px;
+    border: 2px solid grey;
+}
+
+.NavButton-pink{
+    background-color: pink;
+}
+
+.NavButton-green{
+    background-color: green;
+}
